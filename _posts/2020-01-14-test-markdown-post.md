@@ -14,9 +14,9 @@ use_math: true
 
 $$ X_k $$
 
-\begin{align}\label{eq1}
+\begin{equation}\label{eq1}
   \sum_i a_i
-\end{align}
+\end{equation}
 
 \eqef{eq1} 
 
