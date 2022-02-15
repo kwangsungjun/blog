@@ -24,6 +24,12 @@ $$ \begin{align}\label{eq2}
 \end{align}
 $$
 
+$$
+\begin{equation}\label{eq3}
+  \sum_i a_i
+\end{equation}
+$$
+
 \begin{equation}\label{eq1}
   \sum_i a_i
 \end{equation}
