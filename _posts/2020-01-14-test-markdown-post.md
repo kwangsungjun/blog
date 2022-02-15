@@ -10,6 +10,8 @@ use_math: true
 
 ## Basic setup
 
+(is it working?)
+
 $$ X_k $$
 
 Jekyll requires blog post files to be named according to the following format:
