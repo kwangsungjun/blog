@@ -16,6 +16,17 @@ kramdown:
 
 $$ X_k $$
 
+
+$$ \begin{equation}\label{eq1}
+  \sum_i a_i
+\end{equation}
+$$
+
+$$ \begin{align}\label{eq2}
+  \sum_i a_i
+\end{align}
+$$
+
 \begin{equation}\label{eq1}
   \sum_i a_i
 \end{equation}
