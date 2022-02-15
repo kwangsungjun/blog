@@ -4,9 +4,6 @@ layout: post
 description: A minimal example of using markdown with fastpages.
 categories: [markdown]
 title: An Example Markdown Post
-use_math: true
-kramdown:
-  math_engine: mathjax
 ---
 # Example Markdown Post
 
