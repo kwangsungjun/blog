@@ -30,6 +30,19 @@ $$
 
 \eqef{eq1} 
 
+\[ X_k \]
+
+\[\begin{equation}\label{eq1}
+  \sum_i a_i
+\end{equation}\]
+
+\[ \begin{align}\label{eq2}
+  \sum_i a_i
+\end{align}
+\]
+
+\(\eqef{eq1} \eqref{eq2} \)
+
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-filename.md`
