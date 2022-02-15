@@ -14,6 +14,12 @@ use_math: true
 
 $$ X_k $$
 
+\begin{align}\label{eq1}
+  \sum_i a_i
+\end{align}
+
+\eqef{eq1} 
+
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-filename.md`
