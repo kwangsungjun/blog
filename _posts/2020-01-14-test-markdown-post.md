@@ -32,6 +32,8 @@ $$
 
 \[ X_k \]
 
+\\[ X, Y \\]
+
 \[\begin{equation}\label{eq1}
   \sum_i a_i
 \end{equation}\]
